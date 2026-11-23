@@ -1,0 +1,115 @@
+{
+  "scenarios": 5,
+  "statuses": {
+    "pass": 5,
+    "fail": 15
+  },
+  "results": [
+    {
+      "id": "R-027",
+      "checks": {
+        "deadline": {
+          "status": "pass",
+          "reason": "Delivered at 2026-11-02T00:05:00+03:00; deadline 2026-11-02T00:10:00+03:00"
+        },
+        "review_events_match": {
+          "status": "fail",
+          "reason": "Delivered body is not a verifiable structured event report"
+        },
+        "review_content_matches_log": {
+          "status": "fail",
+          "reason": "Delivered body is not a verifiable structured event report"
+        },
+        "review_no_invented_events": {
+          "status": "fail",
+          "reason": "Delivered body is not a verifiable structured event report"
+        }
+      }
+    },
+    {
+      "id": "R-037",
+      "checks": {
+        "deadline": {
+          "status": "pass",
+          "reason": "Delivered at 2026-11-02T00:05:00+03:00; deadline 2026-11-02T00:10:00+03:00"
+        },
+        "review_events_match": {
+          "status": "fail",
+          "reason": "Delivered body is not a verifiable structured event report"
+        },
+        "review_content_matches_log": {
+          "status": "fail",
+          "reason": "Delivered body is not a verifiable structured event report"
+        },
+        "review_no_invented_events": {
+          "status": "fail",
+          "reason": "Delivered body is not a verifiable structured event report"
+        }
+      }
+    },
+    {
+      "id": "R-047",
+      "checks": {
+        "deadline": {
+          "status": "pass",
+          "reason": "Delivered at 2026-11-02T00:05:00+03:00; deadline 2026-11-02T00:10:00+03:00"
+        },
+        "review_events_match": {
+          "status": "fail",
+          "reason": "Delivered body is not a verifiable structured event report"
+        },
+        "review_content_matches_log": {
+          "status": "fail",
+          "reason": "Delivered body is not a verifiable structured event report"
+        },
+        "review_no_invented_events": {
+          "status": "fail",
+          "reason": "Delivered body is not a verifiable structured event report"
+        }
+      }
+    },
+    {
+      "id": "R-057",
+      "checks": {
+        "deadline": {
+          "status": "pass",
+          "reason": "Delivered at 2026-11-02T00:05:00+03:00; deadline 2026-11-02T00:10:00+03:00"
+        },
+        "review_events_match": {
+          "status": "fail",
+          "reason": "Delivered body is not a verifiable structured event report"
+        },
+        "review_content_matches_log": {
+          "status": "fail",
+          "reason": "Delivered body is not a verifiable structured event report"
+        },
+        "review_no_invented_events": {
+          "status": "fail",
+          "reason": "Delivered body is not a verifiable structured event report"
+        }
+      }
+    },
+    {
+      "id": "R-067",
+      "checks": {
+        "deadline": {
+          "status": "pass",
+          "reason": "Delivered at 2026-11-02T00:05:00+03:00; deadline 2026-11-02T00:10:00+03:00"
+        },
+        "review_events_match": {
+          "status": "fail",
+          "reason": "Delivered body is not a verifiable structured event report"
+        },
+        "review_content_matches_log": {
+          "status": "fail",
+          "reason": "Delivered body is not a verifiable structured event report"
+        },
+        "review_no_invented_events": {
+          "status": "fail",
+          "reason": "Delivered body is not a verifiable structured event report"
+        }
+      }
+    }
+  ],
+  "note": "Independent audit of stored evidence, not a rewrite of baseline evaluation"
+}

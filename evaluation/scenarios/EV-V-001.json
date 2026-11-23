@@ -1,0 +1,57 @@
+{
+  "id": "EV-V-001",
+  "class": "failure",
+  "subclass": "recoverable_model_json",
+  "split": "visible",
+  "input": {
+    "kind": "user_message",
+    "text": "Разбери условия предложения поставщика: «Перчатки — 20 штук по 50 ₽, доставим 7 ноября за 300 ₽»."
+  },
+  "fixture": {
+    "organization_id": "org-evv001",
+    "now": "2026-11-06T12:00:00+03:00",
+    "timezone": "Europe/Moscow",
+    "tool_responses": {
+      "llm_structured_output": {
+        "raw": "{invalid JSON",
+        "validation_error": "json_syntax",
+        "attempts": 1
+      }
+    }
+  },
+  "events": [
+    {
+      "event_id": "evv001-quote",
+      "kind": "user_message",
+      "at": "2026-11-06T12:00:00+03:00",
+      "input": {
+        "text": "Разбери условия предложения поставщика: «Перчатки — 20 штук по 50 ₽, доставим 7 ноября за 300 ₽».",
+        "supplier_statement": "Перчатки — 20 штук по 50 ₽, доставим 7 ноября за 300 ₽"
+      }
+    }
+  ],
+  "ground_truth": {
+    "expected_action": "act",
+    "forbidden_calls": ["payment.execute", "prepare_draft", "create_order", "dispatch_order"],
+    "expected_state": {"new_orders": 0, "payment_executed": false},
+    "required_facts": {"quantity": 20, "unit_price_rub": 50, "delivery_fee_rub": 300}
+  },
+  "checks": [
+    {"op": "final_json_recovered", "path": "evidence.timeline", "value": true}
+  ],
+  "supplier_evaluation": [
+    {
+      "step": 1,
+      "facts": {
+        "material": "перчатки",
+        "quantity": 20,
+        "unit": "pcs",
+        "unit_price_rub": 50,
+        "currency": "RUB",
+        "delivery_fee_rub": 300,
+        "delivery_date": "2026-11-07",
+        "delivery_confirmed": true
+      }
+    }
+  ]
+}

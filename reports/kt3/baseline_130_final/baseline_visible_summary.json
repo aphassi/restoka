@@ -1,0 +1,2264 @@
+{
+  "total": 130,
+  "technical_success": 107,
+  "technical_failure": 23,
+  "total_tool_calls": 337,
+  "mean_duration_seconds": 0.16937658236050854,
+  "results": [
+    {
+      "id": "R-001",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 1.3342650889971992,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/e77b8df920ee41baa91428b6fdc84daa/result.json",
+      "evaluator_path": "harness_runs/e77b8df920ee41baa91428b6fdc84daa/evaluator.json"
+    },
+    {
+      "id": "R-002",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.13366864700219594,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/8257b2d8b35b4aa99e9c744e70ca9b2e/result.json",
+      "evaluator_path": "harness_runs/8257b2d8b35b4aa99e9c744e70ca9b2e/evaluator.json"
+    },
+    {
+      "id": "R-003",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.12108698899101,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/82344791b68a4f21a8fddf44f70b936c/result.json",
+      "evaluator_path": "harness_runs/82344791b68a4f21a8fddf44f70b936c/evaluator.json"
+    },
+    {
+      "id": "R-004",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.11613611099892296,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/a8160205c841492d96f5dbb125872a4e/result.json",
+      "evaluator_path": "harness_runs/a8160205c841492d96f5dbb125872a4e/evaluator.json"
+    },
+    {
+      "id": "R-005",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.22700064000673592,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/ec393ee06ebe4f738971fce9f1fa55c3/result.json",
+      "evaluator_path": "harness_runs/ec393ee06ebe4f738971fce9f1fa55c3/evaluator.json"
+    },
+    {
+      "id": "R-006",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.14035810899804346,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/94d37f9f72634966809c34dc2d347a54/result.json",
+      "evaluator_path": "harness_runs/94d37f9f72634966809c34dc2d347a54/evaluator.json"
+    },
+    {
+      "id": "R-007",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.12138950799999293,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/77ab264d704946f4af0a46d1ffead147/result.json",
+      "evaluator_path": "harness_runs/77ab264d704946f4af0a46d1ffead147/evaluator.json"
+    },
+    {
+      "id": "R-008",
+      "expected_events": 2,
+      "executed_events": 2,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act",
+        "act"
+      ],
+      "tool_calls": 4,
+      "duration_seconds": 0.22261989800608717,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/dd98a6462b2243ce8192c479c8399a01/result.json",
+      "evaluator_path": "harness_runs/dd98a6462b2243ce8192c479c8399a01/evaluator.json"
+    },
+    {
+      "id": "R-009",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.10430656198877841,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/410f3d33420348b583ec4a1d1edf2628/result.json",
+      "evaluator_path": "harness_runs/410f3d33420348b583ec4a1d1edf2628/evaluator.json"
+    },
+    {
+      "id": "R-010",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.1087317440105835,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/ed0b3cf652b84ceba9b76c432ae2ef7c/result.json",
+      "evaluator_path": "harness_runs/ed0b3cf652b84ceba9b76c432ae2ef7c/evaluator.json"
+    },
+    {
+      "id": "R-011",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": false,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.11484480800572783,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "ce11a50d21bd46acae53c3ee653e814e",
+          "operation": "get_inventory",
+          "code": "missing_data"
+        }
+      ],
+      "result_path": "harness_runs/d86063319bc043a0a37a3b56761d272b/result.json",
+      "evaluator_path": "harness_runs/d86063319bc043a0a37a3b56761d272b/evaluator.json"
+    },
+    {
+      "id": "R-012",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.10989212601270992,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/f24bbe6edac84c3ea8b768fe50d201c7/result.json",
+      "evaluator_path": "harness_runs/f24bbe6edac84c3ea8b768fe50d201c7/evaluator.json"
+    },
+    {
+      "id": "R-013",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.11321620500530116,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/3c33518c0d3a44d389afaecf71d8cf44/result.json",
+      "evaluator_path": "harness_runs/3c33518c0d3a44d389afaecf71d8cf44/evaluator.json"
+    },
+    {
+      "id": "R-014",
+      "expected_events": 4,
+      "executed_events": 4,
+      "technical_ok": false,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify",
+        "clarify",
+        "escalate",
+        "clarify"
+      ],
+      "tool_calls": 7,
+      "duration_seconds": 0.2516367179923691,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "024bc6a476944fc4b948e69df7dcbe58",
+          "operation": "process_supplier_reply",
+          "code": "business_rule_violation"
+        }
+      ],
+      "result_path": "harness_runs/af5bf601100a47e1a1046d19399cbeef/result.json",
+      "evaluator_path": "harness_runs/af5bf601100a47e1a1046d19399cbeef/evaluator.json"
+    },
+    {
+      "id": "R-015",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.13199839000299107,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/7b449419082f4a7b9c4b09fa0c68c402/result.json",
+      "evaluator_path": "harness_runs/7b449419082f4a7b9c4b09fa0c68c402/evaluator.json"
+    },
+    {
+      "id": "R-016",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.16088429099181667,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/33a07b1ed82b4edb89008a6d83166c27/result.json",
+      "evaluator_path": "harness_runs/33a07b1ed82b4edb89008a6d83166c27/evaluator.json"
+    },
+    {
+      "id": "R-017",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.11603478499455377,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/8c236612d15246a6830f81e4819c26e0/result.json",
+      "evaluator_path": "harness_runs/8c236612d15246a6830f81e4819c26e0/evaluator.json"
+    },
+    {
+      "id": "R-018",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.15655388700542971,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/1cf649d39cbb49f7b734aeec18219547/result.json",
+      "evaluator_path": "harness_runs/1cf649d39cbb49f7b734aeec18219547/evaluator.json"
+    },
+    {
+      "id": "R-019",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": false,
+      "scenario_status": "error",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.10419721000653226,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "81bcec433e2a4adc9ed2f88fd19a98f9",
+          "operation": "get_inventory",
+          "code": "external_service_error"
+        }
+      ],
+      "result_path": "harness_runs/39de088f5eec4207a52624183b2ace59/result.json",
+      "evaluator_path": "harness_runs/39de088f5eec4207a52624183b2ace59/evaluator.json"
+    },
+    {
+      "id": "R-020",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": false,
+      "scenario_status": "error",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.1406494569964707,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "1dc77a0305e74ba9931ef3740e3b5aef",
+          "operation": "create_order",
+          "code": "timeout"
+        }
+      ],
+      "result_path": "harness_runs/e153a65aeb6046f4b526b1355caf704a/result.json",
+      "evaluator_path": "harness_runs/e153a65aeb6046f4b526b1355caf704a/evaluator.json"
+    },
+    {
+      "id": "R-021",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.11979218499618582,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/c534e97f76594ea9a3c000191aaa89fb/result.json",
+      "evaluator_path": "harness_runs/c534e97f76594ea9a3c000191aaa89fb/evaluator.json"
+    },
+    {
+      "id": "R-022",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.10616703999403398,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/793842e7b9804b02a370fc4e45be1d22/result.json",
+      "evaluator_path": "harness_runs/793842e7b9804b02a370fc4e45be1d22/evaluator.json"
+    },
+    {
+      "id": "R-023",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.12537406700721476,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/9a3496bcf5fd4d7aa74828424d9abe6f/result.json",
+      "evaluator_path": "harness_runs/9a3496bcf5fd4d7aa74828424d9abe6f/evaluator.json"
+    },
+    {
+      "id": "R-024",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.17586439799924847,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/90d3b4870f2246179a3f2a9e8cd30e7e/result.json",
+      "evaluator_path": "harness_runs/90d3b4870f2246179a3f2a9e8cd30e7e/evaluator.json"
+    },
+    {
+      "id": "R-025",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 4,
+      "duration_seconds": 0.12115772800461855,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/f58d18a502ed4ac18d889ef548a4243c/result.json",
+      "evaluator_path": "harness_runs/f58d18a502ed4ac18d889ef548a4243c/evaluator.json"
+    },
+    {
+      "id": "R-026",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.22955918598745484,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/70e053a7752e458687a0d23f90643e33/result.json",
+      "evaluator_path": "harness_runs/70e053a7752e458687a0d23f90643e33/evaluator.json"
+    },
+    {
+      "id": "R-027",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.20844038399809506,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/566f6af998084f10b89586606a6088e3/result.json",
+      "evaluator_path": "harness_runs/566f6af998084f10b89586606a6088e3/evaluator.json"
+    },
+    {
+      "id": "R-028",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.1677144550048979,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/4e2b3fda5a1944948081a42dc8ee16a6/result.json",
+      "evaluator_path": "harness_runs/4e2b3fda5a1944948081a42dc8ee16a6/evaluator.json"
+    },
+    {
+      "id": "R-029",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.10830371599877253,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/f043af242d2142b694393cb8bffb6352/result.json",
+      "evaluator_path": "harness_runs/f043af242d2142b694393cb8bffb6352/evaluator.json"
+    },
+    {
+      "id": "R-030",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.11408265899808612,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/84e322ae59c740918a5bca51c4a7287f/result.json",
+      "evaluator_path": "harness_runs/84e322ae59c740918a5bca51c4a7287f/evaluator.json"
+    },
+    {
+      "id": "R-031",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.12945905300148297,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/09caba40ffe3475d9b77b8d97dc592f1/result.json",
+      "evaluator_path": "harness_runs/09caba40ffe3475d9b77b8d97dc592f1/evaluator.json"
+    },
+    {
+      "id": "R-032",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.09056008100742474,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/9e8a46256ba841f88db62a5c2636631c/result.json",
+      "evaluator_path": "harness_runs/9e8a46256ba841f88db62a5c2636631c/evaluator.json"
+    },
+    {
+      "id": "R-033",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.12426874200173188,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/4566ad956eee496eb769186825e3321b/result.json",
+      "evaluator_path": "harness_runs/4566ad956eee496eb769186825e3321b/evaluator.json"
+    },
+    {
+      "id": "R-034",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.1732466329995077,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/b38fcad292a4461da5ff1ef9d3d2234e/result.json",
+      "evaluator_path": "harness_runs/b38fcad292a4461da5ff1ef9d3d2234e/evaluator.json"
+    },
+    {
+      "id": "R-035",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 4,
+      "duration_seconds": 0.1333674180059461,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/4bd988667bb640cc87a779b930e2ec20/result.json",
+      "evaluator_path": "harness_runs/4bd988667bb640cc87a779b930e2ec20/evaluator.json"
+    },
+    {
+      "id": "R-036",
+      "expected_events": 2,
+      "executed_events": 2,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify",
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.15971273199829739,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/c1b3e0b87885405a91d4cd1e8150256b/result.json",
+      "evaluator_path": "harness_runs/c1b3e0b87885405a91d4cd1e8150256b/evaluator.json"
+    },
+    {
+      "id": "R-037",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.24449350198847242,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/91827240b5bc43b1b211d1c8ee5038bd/result.json",
+      "evaluator_path": "harness_runs/91827240b5bc43b1b211d1c8ee5038bd/evaluator.json"
+    },
+    {
+      "id": "R-038",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.178923488012515,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/ea586b0daf3541cabeb92d205f56a354/result.json",
+      "evaluator_path": "harness_runs/ea586b0daf3541cabeb92d205f56a354/evaluator.json"
+    },
+    {
+      "id": "R-039",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.1063418240082683,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/2014a9e195924e56ba176f97b860f946/result.json",
+      "evaluator_path": "harness_runs/2014a9e195924e56ba176f97b860f946/evaluator.json"
+    },
+    {
+      "id": "R-040",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.11871557199629024,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/ef186034a99b4006b9a1bbf7d2bca3b0/result.json",
+      "evaluator_path": "harness_runs/ef186034a99b4006b9a1bbf7d2bca3b0/evaluator.json"
+    },
+    {
+      "id": "R-041",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.12189460100489669,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/34799916351d47db930da1181abe879b/result.json",
+      "evaluator_path": "harness_runs/34799916351d47db930da1181abe879b/evaluator.json"
+    },
+    {
+      "id": "R-042",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.15083216199127492,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/02e0ca98ddbd4a658e88da8f3b349581/result.json",
+      "evaluator_path": "harness_runs/02e0ca98ddbd4a658e88da8f3b349581/evaluator.json"
+    },
+    {
+      "id": "R-043",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.10796259199560154,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/cc8b129f5ff843cc878225b000a0a60c/result.json",
+      "evaluator_path": "harness_runs/cc8b129f5ff843cc878225b000a0a60c/evaluator.json"
+    },
+    {
+      "id": "R-044",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.22705870198842604,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/aea886c4413443ad81e28221106d94f8/result.json",
+      "evaluator_path": "harness_runs/aea886c4413443ad81e28221106d94f8/evaluator.json"
+    },
+    {
+      "id": "R-045",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 4,
+      "duration_seconds": 0.13095776199770626,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/51aa0428758743fda279c60792ecebe5/result.json",
+      "evaluator_path": "harness_runs/51aa0428758743fda279c60792ecebe5/evaluator.json"
+    },
+    {
+      "id": "R-046",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.14386886698775925,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/70326d4e29264502ab07e51730fbeba5/result.json",
+      "evaluator_path": "harness_runs/70326d4e29264502ab07e51730fbeba5/evaluator.json"
+    },
+    {
+      "id": "R-047",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.19772768099210225,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/2d2ffbf02b8642c7b7535551995caa85/result.json",
+      "evaluator_path": "harness_runs/2d2ffbf02b8642c7b7535551995caa85/evaluator.json"
+    },
+    {
+      "id": "R-048",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.146253554004943,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/22df8b9c99dd4a94bf9dd1535387eceb/result.json",
+      "evaluator_path": "harness_runs/22df8b9c99dd4a94bf9dd1535387eceb/evaluator.json"
+    },
+    {
+      "id": "R-049",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.10679459499078803,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/5e362e0091b645c883bcf25759d23286/result.json",
+      "evaluator_path": "harness_runs/5e362e0091b645c883bcf25759d23286/evaluator.json"
+    },
+    {
+      "id": "R-050",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.12662754800112452,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/4c638be6b2a345dca5526f0a1a634ed2/result.json",
+      "evaluator_path": "harness_runs/4c638be6b2a345dca5526f0a1a634ed2/evaluator.json"
+    },
+    {
+      "id": "R-051",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.12011817398888525,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/fea093cda59949c2a8d276f33e181bf1/result.json",
+      "evaluator_path": "harness_runs/fea093cda59949c2a8d276f33e181bf1/evaluator.json"
+    },
+    {
+      "id": "R-052",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.1074333709984785,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/3ba9f539230d44bb9447eb83ae6ced5f/result.json",
+      "evaluator_path": "harness_runs/3ba9f539230d44bb9447eb83ae6ced5f/evaluator.json"
+    },
+    {
+      "id": "R-053",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.09945324499858543,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/89dea40b763e4a8e82a3f2b99f8d87a2/result.json",
+      "evaluator_path": "harness_runs/89dea40b763e4a8e82a3f2b99f8d87a2/evaluator.json"
+    },
+    {
+      "id": "R-054",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.18120649000047706,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/7d108cf22f5e43659ed92b026cb39169/result.json",
+      "evaluator_path": "harness_runs/7d108cf22f5e43659ed92b026cb39169/evaluator.json"
+    },
+    {
+      "id": "R-055",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 4,
+      "duration_seconds": 0.12540962800267152,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/c36cfea3b2314985a68952bb3235e2a9/result.json",
+      "evaluator_path": "harness_runs/c36cfea3b2314985a68952bb3235e2a9/evaluator.json"
+    },
+    {
+      "id": "R-056",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.16226907300006133,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/b49c045f7d504ea2be9ce31c16f3a472/result.json",
+      "evaluator_path": "harness_runs/b49c045f7d504ea2be9ce31c16f3a472/evaluator.json"
+    },
+    {
+      "id": "R-057",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.20877461299824063,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/c1c7636f3a71457cbfdaa4bc605ab948/result.json",
+      "evaluator_path": "harness_runs/c1c7636f3a71457cbfdaa4bc605ab948/evaluator.json"
+    },
+    {
+      "id": "R-058",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.20203732699155807,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/6dcaf786380447cdb6dc0249026cad27/result.json",
+      "evaluator_path": "harness_runs/6dcaf786380447cdb6dc0249026cad27/evaluator.json"
+    },
+    {
+      "id": "R-059",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.09255549099179916,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/4bd319aab2494004bbf1ccc7c9120187/result.json",
+      "evaluator_path": "harness_runs/4bd319aab2494004bbf1ccc7c9120187/evaluator.json"
+    },
+    {
+      "id": "R-060",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.12765280400344636,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/505180b541dc4e27a4da1bc016daf743/result.json",
+      "evaluator_path": "harness_runs/505180b541dc4e27a4da1bc016daf743/evaluator.json"
+    },
+    {
+      "id": "R-061",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.13134258099307772,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/fab8f626e46c456aaea578a4e771e87e/result.json",
+      "evaluator_path": "harness_runs/fab8f626e46c456aaea578a4e771e87e/evaluator.json"
+    },
+    {
+      "id": "R-062",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.11610398199991323,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/25931937a37847d88399df246edc91a2/result.json",
+      "evaluator_path": "harness_runs/25931937a37847d88399df246edc91a2/evaluator.json"
+    },
+    {
+      "id": "R-063",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.13064408300851937,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/13b8b0ee6181489e9fd303f4e7220b97/result.json",
+      "evaluator_path": "harness_runs/13b8b0ee6181489e9fd303f4e7220b97/evaluator.json"
+    },
+    {
+      "id": "R-064",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.16532092800480314,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/371fa6503bb641238aabb0a676ed08ab/result.json",
+      "evaluator_path": "harness_runs/371fa6503bb641238aabb0a676ed08ab/evaluator.json"
+    },
+    {
+      "id": "R-065",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 4,
+      "duration_seconds": 0.21132483999826945,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/d174e99f2b1d443986012690ac9f5c13/result.json",
+      "evaluator_path": "harness_runs/d174e99f2b1d443986012690ac9f5c13/evaluator.json"
+    },
+    {
+      "id": "R-066",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.14019808000011835,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/bb0500d6f75a4c81bf685e7c45313739/result.json",
+      "evaluator_path": "harness_runs/bb0500d6f75a4c81bf685e7c45313739/evaluator.json"
+    },
+    {
+      "id": "R-067",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.17751519799639937,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/8024e6afdbdb46198b740584c236b30a/result.json",
+      "evaluator_path": "harness_runs/8024e6afdbdb46198b740584c236b30a/evaluator.json"
+    },
+    {
+      "id": "R-068",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.1706242719956208,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/84fd4630fb7741e5ba03a2c504df959d/result.json",
+      "evaluator_path": "harness_runs/84fd4630fb7741e5ba03a2c504df959d/evaluator.json"
+    },
+    {
+      "id": "R-069",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.10977403399010655,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/92857ae560834ffb8faed1b919d2d8fd/result.json",
+      "evaluator_path": "harness_runs/92857ae560834ffb8faed1b919d2d8fd/evaluator.json"
+    },
+    {
+      "id": "R-070",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.1480115769954864,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/a63cbd6fa74d4500aea0b9b54c9aa329/result.json",
+      "evaluator_path": "harness_runs/a63cbd6fa74d4500aea0b9b54c9aa329/evaluator.json"
+    },
+    {
+      "id": "R-086",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": false,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.10629178400267847,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "2daecb0e23a44dbb97f563d958ad23ce",
+          "operation": "get_inventory",
+          "code": "missing_data"
+        }
+      ],
+      "result_path": "harness_runs/85b275a67608431db5a85c70ef6b2e5b/result.json",
+      "evaluator_path": "harness_runs/85b275a67608431db5a85c70ef6b2e5b/evaluator.json"
+    },
+    {
+      "id": "R-087",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": false,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.11392507200071122,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "3744a8c8498649c7a3859eaec2dfb6c4",
+          "operation": "calc_material_need",
+          "code": "missing_data"
+        }
+      ],
+      "result_path": "harness_runs/711aaef2ad454ac4875010b3dd2e6319/result.json",
+      "evaluator_path": "harness_runs/711aaef2ad454ac4875010b3dd2e6319/evaluator.json"
+    },
+    {
+      "id": "R-088",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.10984521299542394,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/f86168e5e39c4b56a8351d3a8f9fab2c/result.json",
+      "evaluator_path": "harness_runs/f86168e5e39c4b56a8351d3a8f9fab2c/evaluator.json"
+    },
+    {
+      "id": "R-089",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.11137021701142658,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/8a7362ca20be491da1d253452d77cd61/result.json",
+      "evaluator_path": "harness_runs/8a7362ca20be491da1d253452d77cd61/evaluator.json"
+    },
+    {
+      "id": "R-090",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.101787861000048,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/a9368a47b88e4d248e7b6fb00fbbd346/result.json",
+      "evaluator_path": "harness_runs/a9368a47b88e4d248e7b6fb00fbbd346/evaluator.json"
+    },
+    {
+      "id": "R-091",
+      "expected_events": 2,
+      "executed_events": 2,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify",
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.2543143780058017,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/684ff94af0c24482bc4492192e4f1a86/result.json",
+      "evaluator_path": "harness_runs/684ff94af0c24482bc4492192e4f1a86/evaluator.json"
+    },
+    {
+      "id": "R-092",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": false,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.12952432000020053,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "2a2cb36e3469411a8b8c1c6e9e436c3c",
+          "operation": "get_inventory",
+          "code": "missing_data"
+        }
+      ],
+      "result_path": "harness_runs/b0dd33b911cc4e72bf49d6f603b317aa/result.json",
+      "evaluator_path": "harness_runs/b0dd33b911cc4e72bf49d6f603b317aa/evaluator.json"
+    },
+    {
+      "id": "R-093",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": false,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.17061561699665617,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "0156d08bdf944aa08add5d33de678418",
+          "operation": "calc_material_need",
+          "code": "missing_data"
+        }
+      ],
+      "result_path": "harness_runs/495f3e0f3dce4091b6b2a8e8b35f1531/result.json",
+      "evaluator_path": "harness_runs/495f3e0f3dce4091b6b2a8e8b35f1531/evaluator.json"
+    },
+    {
+      "id": "R-094",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 2,
+      "duration_seconds": 0.13171275300555862,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/4109238e97614954a2ba2e7a66e80ec9/result.json",
+      "evaluator_path": "harness_runs/4109238e97614954a2ba2e7a66e80ec9/evaluator.json"
+    },
+    {
+      "id": "R-095",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.10879883400048129,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/31f0422e7c7544f6b2e1ad3e32dcc81a/result.json",
+      "evaluator_path": "harness_runs/31f0422e7c7544f6b2e1ad3e32dcc81a/evaluator.json"
+    },
+    {
+      "id": "R-096",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.10606267100956757,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/34aa4876d76a49d3921e9af5d6d1c72e/result.json",
+      "evaluator_path": "harness_runs/34aa4876d76a49d3921e9af5d6d1c72e/evaluator.json"
+    },
+    {
+      "id": "R-097",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.10166192099859472,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/d896a9a180ec4f02b9b127a1a8d59303/result.json",
+      "evaluator_path": "harness_runs/d896a9a180ec4f02b9b127a1a8d59303/evaluator.json"
+    },
+    {
+      "id": "R-098",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": false,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.10758577998785768,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "5e0d2decc6194a52916e34d6094df0e0",
+          "operation": "get_inventory",
+          "code": "missing_data"
+        }
+      ],
+      "result_path": "harness_runs/c389f773c62443c89c5635a1c340f344/result.json",
+      "evaluator_path": "harness_runs/c389f773c62443c89c5635a1c340f344/evaluator.json"
+    },
+    {
+      "id": "R-099",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": false,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.13356789899989963,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "aaec8cdb90ea4f20ba6032e81ffcf964",
+          "operation": "calc_material_need",
+          "code": "missing_data"
+        }
+      ],
+      "result_path": "harness_runs/0dffaf20e1d540fd991fc7db80e2af7a/result.json",
+      "evaluator_path": "harness_runs/0dffaf20e1d540fd991fc7db80e2af7a/evaluator.json"
+    },
+    {
+      "id": "R-100",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.10355974799313117,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/42570bff5b50410c9fb48788f14312bf/result.json",
+      "evaluator_path": "harness_runs/42570bff5b50410c9fb48788f14312bf/evaluator.json"
+    },
+    {
+      "id": "R-101",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.10960705499746837,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/1b0d11e1a64842e095233a76a5c3121f/result.json",
+      "evaluator_path": "harness_runs/1b0d11e1a64842e095233a76a5c3121f/evaluator.json"
+    },
+    {
+      "id": "R-102",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.1348430490033934,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/bbd325135a664a4f8815cd245b044762/result.json",
+      "evaluator_path": "harness_runs/bbd325135a664a4f8815cd245b044762/evaluator.json"
+    },
+    {
+      "id": "R-103",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.24886858700483572,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/307c58903a6540fcb2795504635fa65f/result.json",
+      "evaluator_path": "harness_runs/307c58903a6540fcb2795504635fa65f/evaluator.json"
+    },
+    {
+      "id": "R-104",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": false,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.11201791100029368,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "c5f3354471bb43399fe60270e39d1a5f",
+          "operation": "get_inventory",
+          "code": "missing_data"
+        }
+      ],
+      "result_path": "harness_runs/aa4226cf59f249d597a41ff95a82c831/result.json",
+      "evaluator_path": "harness_runs/aa4226cf59f249d597a41ff95a82c831/evaluator.json"
+    },
+    {
+      "id": "R-105",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": false,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.2396061759936856,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "a7b8f10e97f44ef28b081bd4d4f58ee4",
+          "operation": "calc_material_need",
+          "code": "missing_data"
+        }
+      ],
+      "result_path": "harness_runs/0b60afda8b084fe5a95e51043abdcbe5/result.json",
+      "evaluator_path": "harness_runs/0b60afda8b084fe5a95e51043abdcbe5/evaluator.json"
+    },
+    {
+      "id": "R-112",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.19678404100704938,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/ca678c1e33404c1f8e368b617a6af812/result.json",
+      "evaluator_path": "harness_runs/ca678c1e33404c1f8e368b617a6af812/evaluator.json"
+    },
+    {
+      "id": "R-113",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.1865474279911723,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/bd10e9e17b464556a9f25515ddc9361c/result.json",
+      "evaluator_path": "harness_runs/bd10e9e17b464556a9f25515ddc9361c/evaluator.json"
+    },
+    {
+      "id": "R-114",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.18190122199303005,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/ecfc16e7160349d2b5df4d12d42c5522/result.json",
+      "evaluator_path": "harness_runs/ecfc16e7160349d2b5df4d12d42c5522/evaluator.json"
+    },
+    {
+      "id": "R-115",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.18132088899437804,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/7dad20c740f547a59c45b5fe427ddf35/result.json",
+      "evaluator_path": "harness_runs/7dad20c740f547a59c45b5fe427ddf35/evaluator.json"
+    },
+    {
+      "id": "R-116",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.20829924699501134,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/17b54d175260491bbbd3c415026e1bed/result.json",
+      "evaluator_path": "harness_runs/17b54d175260491bbbd3c415026e1bed/evaluator.json"
+    },
+    {
+      "id": "R-117",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.19729187998746056,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/23e41343d7264237b85b71289c27b1ba/result.json",
+      "evaluator_path": "harness_runs/23e41343d7264237b85b71289c27b1ba/evaluator.json"
+    },
+    {
+      "id": "R-118",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.18890647099760827,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/c8653c57aa7e4eb2bd0cd1f934612e22/result.json",
+      "evaluator_path": "harness_runs/c8653c57aa7e4eb2bd0cd1f934612e22/evaluator.json"
+    },
+    {
+      "id": "R-119",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.1726445169915678,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/f4da9052b87b4e8eb42e19931c623db8/result.json",
+      "evaluator_path": "harness_runs/f4da9052b87b4e8eb42e19931c623db8/evaluator.json"
+    },
+    {
+      "id": "R-120",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.18280760500056203,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/baf13b618588438192bfa85d534869c3/result.json",
+      "evaluator_path": "harness_runs/baf13b618588438192bfa85d534869c3/evaluator.json"
+    },
+    {
+      "id": "R-121",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.17819106800016016,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/f134a0ab864b4e9788862caa5a68b1e6/result.json",
+      "evaluator_path": "harness_runs/f134a0ab864b4e9788862caa5a68b1e6/evaluator.json"
+    },
+    {
+      "id": "R-125",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.10093376899021678,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/a33e13165198472bb3385c8171b399f0/result.json",
+      "evaluator_path": "harness_runs/a33e13165198472bb3385c8171b399f0/evaluator.json"
+    },
+    {
+      "id": "R-126",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.10479275899706408,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/56da5e9b483443caa4411719d0a451ea/result.json",
+      "evaluator_path": "harness_runs/56da5e9b483443caa4411719d0a451ea/evaluator.json"
+    },
+    {
+      "id": "R-127",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.1083493640035158,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/977d13aa6dba49e09601defa1d62dc8d/result.json",
+      "evaluator_path": "harness_runs/977d13aa6dba49e09601defa1d62dc8d/evaluator.json"
+    },
+    {
+      "id": "R-128",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.12922160199377686,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/99bfa14a6dd5492ba5fa825367dbc5fd/result.json",
+      "evaluator_path": "harness_runs/99bfa14a6dd5492ba5fa825367dbc5fd/evaluator.json"
+    },
+    {
+      "id": "R-129",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.132749458993203,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/c985582101f84562b797fe085aeb7c01/result.json",
+      "evaluator_path": "harness_runs/c985582101f84562b797fe085aeb7c01/evaluator.json"
+    },
+    {
+      "id": "R-130",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.2929800529964268,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/3262b74c14884ed9b1a8609c4c1c6417/result.json",
+      "evaluator_path": "harness_runs/3262b74c14884ed9b1a8609c4c1c6417/evaluator.json"
+    },
+    {
+      "id": "R-131",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.12273559799359646,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/9de0cab9def44806801a3ad94263f2fa/result.json",
+      "evaluator_path": "harness_runs/9de0cab9def44806801a3ad94263f2fa/evaluator.json"
+    },
+    {
+      "id": "R-132",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.09500357499928214,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/90d993f769624adda72da256f1bc33a3/result.json",
+      "evaluator_path": "harness_runs/90d993f769624adda72da256f1bc33a3/evaluator.json"
+    },
+    {
+      "id": "R-133",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.10806720699474681,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/8fc4901eeace4b4ea8340d6578de9bbb/result.json",
+      "evaluator_path": "harness_runs/8fc4901eeace4b4ea8340d6578de9bbb/evaluator.json"
+    },
+    {
+      "id": "R-134",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.10607347699988168,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/ae8e0d0306f740a391cc063d80cc9c74/result.json",
+      "evaluator_path": "harness_runs/ae8e0d0306f740a391cc063d80cc9c74/evaluator.json"
+    },
+    {
+      "id": "R-138",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": false,
+      "scenario_status": "error",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.10314287900109775,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "36115e8cdd6e4c2f8c7ea9a451f31a03",
+          "operation": "get_inventory",
+          "code": "external_service_error"
+        }
+      ],
+      "result_path": "harness_runs/598d293e2c4444fe8d192a36d0efecdc/result.json",
+      "evaluator_path": "harness_runs/598d293e2c4444fe8d192a36d0efecdc/evaluator.json"
+    },
+    {
+      "id": "R-139",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": false,
+      "scenario_status": "error",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.15821164699445944,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "548316c74de94eadb8a4af55b26d882f",
+          "operation": "create_order",
+          "code": "timeout"
+        }
+      ],
+      "result_path": "harness_runs/b218a957b63c43ce924ec480e9909f5d/result.json",
+      "evaluator_path": "harness_runs/b218a957b63c43ce924ec480e9909f5d/evaluator.json"
+    },
+    {
+      "id": "R-140",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.12211235500581097,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/4e4da2b420fe410798bb2fde20216492/result.json",
+      "evaluator_path": "harness_runs/4e4da2b420fe410798bb2fde20216492/evaluator.json"
+    },
+    {
+      "id": "R-141",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.11175759199250024,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/a265837b24864753b09ffcc24302f8a2/result.json",
+      "evaluator_path": "harness_runs/a265837b24864753b09ffcc24302f8a2/evaluator.json"
+    },
+    {
+      "id": "R-142",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.1636582740029553,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/7104aaf2855549a6875e90bc9ab4a3a2/result.json",
+      "evaluator_path": "harness_runs/7104aaf2855549a6875e90bc9ab4a3a2/evaluator.json"
+    },
+    {
+      "id": "R-143",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": false,
+      "scenario_status": "error",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.14344105598866008,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "d5e87999a1c34b4cb95f6cd40c3e7fae",
+          "operation": "get_inventory",
+          "code": "external_service_error"
+        }
+      ],
+      "result_path": "harness_runs/6fce30e746a5473ba3fa98f2c0d35446/result.json",
+      "evaluator_path": "harness_runs/6fce30e746a5473ba3fa98f2c0d35446/evaluator.json"
+    },
+    {
+      "id": "R-144",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": false,
+      "scenario_status": "error",
+      "actions": [
+        "escalate"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.2000298839993775,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "71ea22f31cf44c27bb21240be50ae7b2",
+          "operation": "create_order",
+          "code": "timeout"
+        }
+      ],
+      "result_path": "harness_runs/ec29f97ae42e4e528196c8bedef05bf4/result.json",
+      "evaluator_path": "harness_runs/ec29f97ae42e4e528196c8bedef05bf4/evaluator.json"
+    },
+    {
+      "id": "R-145",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 3,
+      "duration_seconds": 0.12022112299746368,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/b0822a8661114bab89e3838c4ab01703/result.json",
+      "evaluator_path": "harness_runs/b0822a8661114bab89e3838c4ab01703/evaluator.json"
+    },
+    {
+      "id": "R-146",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify"
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.1144936889904784,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/5be615d8556245ceb366377b5be4a2ad/result.json",
+      "evaluator_path": "harness_runs/5be615d8556245ceb366377b5be4a2ad/evaluator.json"
+    },
+    {
+      "id": "R-147",
+      "expected_events": 1,
+      "executed_events": 1,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "act"
+      ],
+      "tool_calls": 1,
+      "duration_seconds": 0.111812920004013,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/c6c8a97f0f714bfd915808a68789f108/result.json",
+      "evaluator_path": "harness_runs/c6c8a97f0f714bfd915808a68789f108/evaluator.json"
+    },
+    {
+      "id": "MS-V-001",
+      "expected_events": 3,
+      "executed_events": 3,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify",
+        "act",
+        "clarify"
+      ],
+      "tool_calls": 7,
+      "duration_seconds": 0.3357846239960054,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/0d3bb97b74fa487a84da11d2ad094e17/result.json",
+      "evaluator_path": "harness_runs/0d3bb97b74fa487a84da11d2ad094e17/evaluator.json"
+    },
+    {
+      "id": "MS-V-002",
+      "expected_events": 3,
+      "executed_events": 3,
+      "technical_ok": false,
+      "scenario_status": "error",
+      "actions": [
+        "clarify",
+        null,
+        "clarify"
+      ],
+      "tool_calls": 4,
+      "duration_seconds": 0.21267221801099367,
+      "technical_errors": [
+        {
+          "stage": "event_binding",
+          "code": "unresolved_or_ambiguous_reference",
+          "step_id": 1
+        }
+      ],
+      "tool_errors": [],
+      "result_path": "harness_runs/fb0a0731a6444efd92768919f3927cec/result.json",
+      "evaluator_path": "harness_runs/fb0a0731a6444efd92768919f3927cec/evaluator.json"
+    },
+    {
+      "id": "MS-V-003",
+      "expected_events": 3,
+      "executed_events": 3,
+      "technical_ok": false,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify",
+        "escalate",
+        "clarify"
+      ],
+      "tool_calls": 7,
+      "duration_seconds": 0.3521398040029453,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "8653b773ae1840b8953bf9b8d053275b",
+          "operation": "process_supplier_reply",
+          "code": "business_rule_violation"
+        }
+      ],
+      "result_path": "harness_runs/28a002d630bd41c8a73d692448f990da/result.json",
+      "evaluator_path": "harness_runs/28a002d630bd41c8a73d692448f990da/evaluator.json"
+    },
+    {
+      "id": "MS-V-004",
+      "expected_events": 3,
+      "executed_events": 3,
+      "technical_ok": false,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify",
+        "escalate",
+        "clarify"
+      ],
+      "tool_calls": 7,
+      "duration_seconds": 0.4325520400016103,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "6004f6544aab4b528d04dde8fb15fa24",
+          "operation": "process_supplier_reply",
+          "code": "business_rule_violation"
+        }
+      ],
+      "result_path": "harness_runs/15c198e9042d42268d68eb86c89240d3/result.json",
+      "evaluator_path": "harness_runs/15c198e9042d42268d68eb86c89240d3/evaluator.json"
+    },
+    {
+      "id": "MS-V-005",
+      "expected_events": 3,
+      "executed_events": 3,
+      "technical_ok": false,
+      "scenario_status": "completed",
+      "actions": [
+        "escalate",
+        "escalate",
+        "act"
+      ],
+      "tool_calls": 10,
+      "duration_seconds": 0.4413442450022558,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "cfa368a54f2d4c4a81d2a967549844de",
+          "operation": "dispatch_order",
+          "code": "operation_outcome_unknown"
+        },
+        {
+          "span_id": "a2695051db824ea58c9073220434c123",
+          "operation": "dispatch_order",
+          "code": "operation_outcome_unknown"
+        }
+      ],
+      "result_path": "harness_runs/c49126c338d7438e991e3ff57f8e17fb/result.json",
+      "evaluator_path": "harness_runs/c49126c338d7438e991e3ff57f8e17fb/evaluator.json"
+    },
+    {
+      "id": "MS-V-006",
+      "expected_events": 3,
+      "executed_events": 3,
+      "technical_ok": true,
+      "scenario_status": "completed",
+      "actions": [
+        "clarify",
+        "act",
+        "clarify"
+      ],
+      "tool_calls": 6,
+      "duration_seconds": 0.3067671160097234,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/28b46ca0b4524ce6a42d6840df5383d5/result.json",
+      "evaluator_path": "harness_runs/28b46ca0b4524ce6a42d6840df5383d5/evaluator.json"
+    },
+    {
+      "id": "MS-V-007",
+      "expected_events": 5,
+      "executed_events": 5,
+      "technical_ok": false,
+      "scenario_status": "error",
+      "actions": [
+        "clarify",
+        "escalate",
+        "clarify",
+        null,
+        "clarify"
+      ],
+      "tool_calls": 7,
+      "duration_seconds": 0.5503795840049861,
+      "technical_errors": [
+        {
+          "stage": "event_binding",
+          "code": "unresolved_or_ambiguous_reference",
+          "step_id": 3
+        }
+      ],
+      "tool_errors": [
+        {
+          "span_id": "7bc5136f07ef40c2b2b0075eb70d1b90",
+          "operation": "process_supplier_reply",
+          "code": "business_rule_violation"
+        }
+      ],
+      "result_path": "harness_runs/9f04544c12c64078953eb0f196803ee7/result.json",
+      "evaluator_path": "harness_runs/9f04544c12c64078953eb0f196803ee7/evaluator.json"
+    },
+    {
+      "id": "MS-V-008",
+      "expected_events": 2,
+      "executed_events": 2,
+      "technical_ok": true,
+      "scenario_status": "waiting",
+      "actions": [
+        "clarify",
+        "act"
+      ],
+      "tool_calls": 4,
+      "duration_seconds": 0.2297068850020878,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/321c68b23cd0439f8b6faaecbb2e3d37/result.json",
+      "evaluator_path": "harness_runs/321c68b23cd0439f8b6faaecbb2e3d37/evaluator.json"
+    },
+    {
+      "id": "MS-V-009",
+      "expected_events": 4,
+      "executed_events": 4,
+      "technical_ok": false,
+      "scenario_status": "waiting",
+      "actions": [
+        "escalate",
+        "escalate",
+        "escalate",
+        "escalate"
+      ],
+      "tool_calls": 8,
+      "duration_seconds": 0.38948637900466565,
+      "technical_errors": [],
+      "tool_errors": [
+        {
+          "span_id": "8638c5a374c044f3ab3282766d4274a1",
+          "operation": "dispatch_order",
+          "code": "operation_outcome_unknown"
+        },
+        {
+          "span_id": "e35e37775e9c4d54a28941684dc23e72",
+          "operation": "dispatch_order",
+          "code": "operation_outcome_unknown"
+        }
+      ],
+      "result_path": "harness_runs/26aadd078b524a108aab0a0ce06d1382/result.json",
+      "evaluator_path": "harness_runs/26aadd078b524a108aab0a0ce06d1382/evaluator.json"
+    },
+    {
+      "id": "MS-V-010",
+      "expected_events": 2,
+      "executed_events": 2,
+      "technical_ok": false,
+      "scenario_status": "error",
+      "actions": [
+        "clarify",
+        null
+      ],
+      "tool_calls": 0,
+      "duration_seconds": 0.15530942399345804,
+      "technical_errors": [],
+      "tool_errors": [],
+      "result_path": "harness_runs/0739fab86b244ff9967d2a4c8e10d8a5/result.json",
+      "evaluator_path": "harness_runs/0739fab86b244ff9967d2a4c8e10d8a5/evaluator.json"
+    }
+  ]
+}

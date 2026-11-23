@@ -1,0 +1,1049 @@
+{
+  "scenarios_total": 130,
+  "status_counts": {
+    "not_exercised": 112,
+    "pass": 18
+  },
+  "submitted_orders_audited": 0,
+  "rule_counts": {
+    "pass": 18
+  },
+  "results": [
+    {
+      "id": "R-001",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-002",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-003",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-004",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-005",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-006",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-007",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-008",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-009",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-010",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-011",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-012",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-013",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-014",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-015",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-016",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-017",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-018",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-019",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-020",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-021",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-022",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-023",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-024",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "34c791e6-8807-4c60-9e78-e8439e929d0f",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-025",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-026",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-027",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-028",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "dc937649-b0ee-4d0b-b32d-b0bdff3ea673",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-029",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-030",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-031",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-032",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-033",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-034",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "55071b83-10bd-4caf-b8f1-a7b12280370c",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-035",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-036",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-037",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-038",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "f8ae702e-c66b-4869-86a8-72f93c1ccce7",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-039",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-040",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-041",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-042",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-043",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-044",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "77435cc9-daf1-4c4a-bfb9-95edd85ff0ef",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-045",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-046",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-047",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-048",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-049",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-050",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-051",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-052",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-053",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-054",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "c7ab23df-e707-43b6-96c9-ae97d896e580",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-055",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-056",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-057",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-058",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "6d39615d-288c-4859-bcc7-594437184fbb",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-059",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-060",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-061",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-062",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-063",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-064",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "1b90831e-3886-4840-a814-4b960c4ecaae",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-065",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-066",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-067",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-068",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-069",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-070",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-086",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-087",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-088",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-089",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-090",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-091",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-092",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-093",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-094",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-095",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-096",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-097",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-098",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-099",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-100",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-101",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-102",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-103",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-104",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-105",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-112",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "b0412830-718a-451b-83cd-0c43ef3f4be8",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-113",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "e4748530-a7ab-4fca-9381-dd5708cd2110",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-114",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "d3c28d9a-de6e-4dc9-8ff6-befc0811fea7",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-115",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "d989a149-8a66-4a8b-9ada-b6b29c097638",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-116",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "329a2cfc-06d3-4dac-a5bf-24b0f946c8f0",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-117",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "627808c9-d881-4ec6-ae32-b362147159ba",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-118",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "e34af8b1-0993-4ca2-aa2a-98853b11926e",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-119",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "17c160bd-7bd5-47b3-9109-9765c8d06af0",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-120",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "dcebaefb-cb8b-4cb0-961d-bb83e5dcc96a",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-121",
+      "status": "pass",
+      "checks": [
+        {
+          "order_id": "9f5e19a6-3211-47fa-bd9e-b45adf8083c5",
+          "rule": "pending_approval_has_request",
+          "status": "pass",
+          "detail": "Approval request linked"
+        }
+      ],
+      "orders_audited": 0,
+      "pending_orders_audited": 1
+    },
+    {
+      "id": "R-125",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-126",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-127",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-128",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-129",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-130",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-131",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-132",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-133",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-134",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-138",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-139",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-140",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-141",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-142",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-143",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-144",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-145",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-146",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "R-147",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "MS-V-001",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "MS-V-002",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "MS-V-003",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "MS-V-004",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "MS-V-005",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "MS-V-006",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "MS-V-007",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "MS-V-008",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "MS-V-009",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    },
+    {
+      "id": "MS-V-010",
+      "status": "not_exercised",
+      "checks": [],
+      "orders_audited": 0,
+      "reason": "No newly submitted orders or new pending-approval orders"
+    }
+  ]
+}

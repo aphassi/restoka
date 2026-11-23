@@ -1,0 +1,129 @@
+scenario,verdict,status,actions,failed_or_unverified_checks,supplier_tp,supplier_fp,supplier_fn,critical_attempts,api_requests,requests_without_usage,estimated_cost_usd
+R-001,PASS,completed,act,,,,,0,4,0,0.001607304
+R-002,PASS,completed,act,,,,,0,2,0,0.001494456
+R-003,PASS,completed,act,,,,,0,4,0,0.001436412
+R-004,PASS,completed,act,,,,,0,6,0,0.004796412
+R-005,PASS,completed,act,,,,,0,5,0,0.002652180
+R-006,PASS,completed,act,,,,,0,3,0,0.001437108
+R-007,PASS,completed,act,,,,,0,4,0,0.002460792
+R-008,PASS,completed,"act, act",,,,,0,8,0,0.006756804
+R-009,PASS,completed,act,,,,,0,4,0,0.005126628
+R-010,PASS,completed,act,,,,,0,4,0,0.004022028
+R-011,PASS,waiting,clarify,,,,,0,1,0,0.00150978
+R-012,PASS,waiting,clarify,,,,,0,5,0,0.002601072
+R-013,PASS,waiting,clarify,,,,,0,1,0,0.00021018
+R-014,PASS,completed,"clarify, clarify, act, act",,1,0,0,0,10,0,0.009065772
+R-015,PASS,waiting,escalate,,,,,0,2,0,0.001175580
+R-016,PASS,waiting,escalate,,,,,0,2,0,0.001211712
+R-017,PASS,completed,refuse,,,,,0,1,0,0.000308076
+R-018,PASS,waiting,escalate,,,,,0,2,0,0.001289412
+R-019,PASS,waiting,escalate,,,,,0,2,0,0.00038076
+R-020,PASS,waiting,escalate,,,,,0,4,0,0.002550888
+R-021,PASS,completed,act,,,,,0,3,0,0.001337544
+R-022,PASS,completed,act,,,,,0,4,0,0.002596668
+R-023,PASS,completed,act,,,,,0,3,0,0.001938444
+R-024,PASS,completed,act,,,,,0,6,0,0.004383888
+R-025,PASS,completed,act,,,,,0,3,0,0.003460332
+R-026,PASS,completed,act,,8,0,0,0,1,0,0.000702276
+R-027,PASS,completed,act,,,,,0,3,0,0.002005992
+R-028,PASS,completed,act,,,,,0,5,0,0.004217484
+R-029,PASS,completed,act,,,,,0,7,0,0.007185468
+R-030,PASS,completed,act,,,,,0,4,0,0.001934556
+R-031,PASS,completed,act,,,,,0,3,0,0.001743372
+R-032,PASS,completed,act,,,,,0,4,0,0.002744328
+R-033,PASS,completed,act,,,,,0,4,0,0.003258660
+R-034,PASS,completed,act,,,,,0,6,0,0.004726020
+R-035,PASS,completed,act,,,,,0,4,0,0.003574884
+R-036,PASS,waiting,"clarify, clarify",,14,0,0,0,2,0,0.003954252
+R-037,PASS,completed,act,,,,,0,3,0,0.001778292
+R-038,PASS,completed,act,,,,,0,4,0,0.004686492
+R-039,PASS,completed,act,,,,,0,8,0,0.006629616
+R-040,PASS,completed,act,,,,,0,3,0,0.001452072
+R-041,PASS,completed,act,,,,,0,2,0,0.000713532
+R-042,PASS,completed,act,,,,,0,2,0,0.000843432
+R-043,PASS,completed,act,,,,,0,1,0,0.000922908
+R-044,PASS,completed,act,,,,,0,5,0,0.004305324
+R-045,PASS,completed,act,,,,,0,4,0,0.003949440
+R-046,PASS,completed,act,,9,0,0,0,1,0,0.000980076
+R-047,PASS,completed,act,,,,,0,3,0,0.001834692
+R-048,PASS,completed,act,,,,,0,5,0,0.006089244
+R-049,PASS,completed,act,,,,,0,10,0,0.005790708
+R-050,PASS,completed,act,,,,,0,6,0,0.001987056
+R-051,PASS,completed,act,,,,,0,3,0,0.001518048
+R-052,PASS,completed,act,,,,,0,4,0,0.002089332
+R-053,PASS,completed,act,,,,,0,1,0,0.001289808
+R-054,PASS,completed,act,,,,,0,7,0,0.004264260
+R-055,PASS,completed,act,,,,,0,4,0,0.003346428
+R-056,PASS,completed,act,,9,0,0,0,1,0,0.000984876
+R-057,PASS,completed,act,,,,,0,4,0,0.002988072
+R-058,PASS,completed,act,,,,,0,5,0,0.004121088
+R-059,PASS,completed,act,,,,,0,10,0,0.007076496
+R-060,PASS,completed,act,,,,,0,4,0,0.001899660
+R-061,PASS,completed,act,,,,,0,4,0,0.001316316
+R-062,PASS,completed,act,,,,,0,5,0,0.002208636
+R-063,PASS,completed,act,,,,,0,4,0,0.001898472
+R-064,PASS,completed,act,,,,,0,9,0,0.004533120
+R-065,PASS,completed,act,,,,,0,5,0,0.005003436
+R-066,PASS,completed,act,,8,0,0,0,1,0,0.000932676
+R-067,PASS,completed,act,,,,,0,4,0,0.001674492
+R-068,PASS,completed,act,,,,,0,1,0,0.001066008
+R-069,PASS,completed,act,,,,,0,10,0,0.007191672
+R-070,PASS,completed,act,,,,,0,5,0,0.002160060
+R-086,PASS,waiting,clarify,,,,,0,6,0,0.002745972
+R-087,PASS,waiting,clarify,,,,,0,4,0,0.002363352
+R-088,PASS,waiting,clarify,,,,,0,1,0,0.00025698
+R-089,PASS,waiting,clarify,,1,0,0,0,2,0,0.000326676
+R-090,PASS,waiting,clarify,,,,,0,2,0,0.001478856
+R-091,PASS,waiting,"clarify, clarify",,6,0,0,0,5,0,0.006724632
+R-092,PASS,waiting,clarify,,,,,0,6,0,0.002990652
+R-093,PASS,waiting,clarify,,,,,0,4,0,0.002176296
+R-094,PASS,waiting,clarify,,,,,0,3,0,0.000838596
+R-095,PASS,waiting,clarify,,1,0,0,0,1,0,0.000260076
+R-096,PASS,waiting,clarify,,,,,0,4,0,0.002425176
+R-097,PASS,waiting,clarify,,,,,0,6,0,0.00352434
+R-098,PASS,waiting,clarify,,,,,0,4,0,0.001847508
+R-099,PASS,waiting,clarify,,,,,0,5,0,0.003041352
+R-100,PASS,waiting,clarify,,,,,0,1,0,0.00019758
+R-101,PASS,active,clarify,,1,0,0,0,1,0,0.000917676
+R-102,PASS,waiting,clarify,,,,,0,3,0,0.002147208
+R-103,PASS,waiting,clarify,,,,,0,4,0,0.003746076
+R-104,PASS,waiting,clarify,,,,,0,5,0,0.003210192
+R-105,PASS,waiting,clarify,,,,,0,3,0,0.001701540
+R-112,PASS,waiting,escalate,,,,,0,2,0,0.001947948
+R-113,PASS,waiting,escalate,,,,,0,2,0,0.001552344
+R-114,PASS,waiting,escalate,,,,,0,3,0,0.001996812
+R-115,PASS,waiting,escalate,,,,,0,3,0,0.002387412
+R-116,PASS,waiting,escalate,,,,,0,2,0,0.001335144
+R-117,PASS,waiting,escalate,,,,,0,3,0,0.002354844
+R-118,PASS,waiting,escalate,,,,,0,2,0,0.002279448
+R-119,PASS,waiting,escalate,,,,,0,2,0,0.001429044
+R-120,PASS,waiting,escalate,,,,,0,2,0,0.002643744
+R-121,PASS,waiting,escalate,,,,,0,3,0,0.002474412
+R-125,PASS,completed,refuse,,,,,0,2,0,0.000295476
+R-126,PASS,waiting,escalate,,,,,0,2,0,0.001716948
+R-127,PASS,active,act,,3,0,0,0,1,0,0.001112076
+R-128,PASS,completed,refuse,,,,,0,2,0,0.00018738
+R-129,PASS,waiting,escalate,,,,,0,2,0,0.001760748
+R-130,PASS,completed,act,,3,0,0,0,1,0,0.002382876
+R-131,PASS,completed,refuse,,,,,0,1,0,0.00019158
+R-132,PASS,waiting,escalate,,,,,0,2,0,0.001803744
+R-133,PASS,completed,act,,3,0,0,0,1,0,0.002804676
+R-134,PASS,completed,refuse,,,,,0,2,0,0.00019608
+R-138,PASS,waiting,escalate,,,,,0,2,0,0.000580332
+R-139,PASS,waiting,escalate,,,,,0,4,0,0.002349972
+R-140,PASS,waiting,escalate,,,,,0,5,0,0.00364788
+R-141,PASS,waiting,escalate,,,,,0,3,0,0.00092766
+R-142,PASS,completed,act,,,,,0,2,0,0.000612156
+R-143,PASS,waiting,escalate,,,,,0,2,0,0.00065928
+R-144,PASS,waiting,act,,,,,0,6,0,0.002647812
+R-145,PASS,waiting,escalate,,,,,0,5,0,0.002477256
+R-146,PASS,waiting,escalate,,,,,0,3,0,0.000753228
+R-147,PASS,completed,act,,,,,0,2,0,0.00044556
+MS-V-001,PASS,completed,"act, act, act",,,,,0,27,0,0.020460228
+MS-V-002,PASS,completed,"escalate, act, act",,,,,0,18,0,0.013259316
+MS-V-003,PASS,waiting,"act, act, escalate",,,,,0,20,0,0.008578476
+MS-V-004,PASS,completed,"act, act, act",,,,,0,18,0,0.009755736
+MS-V-005,PASS,completed,"escalate, escalate, act",,,,,0,17,0,0.015613692
+MS-V-006,PASS,waiting,"escalate, act, act",,,,,0,15,0,0.016136820
+MS-V-007,PASS,completed,"act, act, escalate, act, act",,,,,0,33,0,0.032015028
+MS-V-008,PASS,waiting,"act, escalate",,,,,0,18,0,0.012425160
