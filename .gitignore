@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+/eval_hidden.json
+/harness_runs/
+/harness_runs_llm/

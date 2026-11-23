@@ -1,0 +1,147 @@
+{
+  "mode": "full",
+  "model": "deepseek-v4.1-flash-1017",
+  "prompt": "restoka-llm-instructions-45",
+  "dataset_sha256": "15025da73255cac78d0a0692bfaeba7523aadc3bc7fa823a044ae8c2d6b87f5c",
+  "extra_case_sha256": null,
+  "cost_estimate_usd": "0.420502428",
+  "uncertain_reserve_usd": "0",
+  "supplier_extraction": {
+    "tp": 67,
+    "fp": 0,
+    "fn": 0,
+    "gold_count": 67,
+    "predicted_count": 67,
+    "precision": 1.0,
+    "recall": 1.0,
+    "scenarios": 13,
+    "turns": 14,
+    "by_field": {
+      "available": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "gold_count": 2,
+        "predicted_count": 2,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "currency": {
+        "tp": 7,
+        "fp": 0,
+        "fn": 0,
+        "gold_count": 7,
+        "predicted_count": 7,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "delivery_confirmed": {
+        "tp": 11,
+        "fp": 0,
+        "fn": 0,
+        "gold_count": 11,
+        "predicted_count": 11,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "delivery_date": {
+        "tp": 10,
+        "fp": 0,
+        "fn": 0,
+        "gold_count": 10,
+        "predicted_count": 10,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "delivery_fee_rub": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "gold_count": 2,
+        "predicted_count": 2,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "material": {
+        "tp": 11,
+        "fp": 0,
+        "fn": 0,
+        "gold_count": 11,
+        "predicted_count": 11,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "quantity": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0,
+        "gold_count": 5,
+        "predicted_count": 5,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "remaining_confirmed": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0,
+        "gold_count": 5,
+        "predicted_count": 5,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "unit": {
+        "tp": 7,
+        "fp": 0,
+        "fn": 0,
+        "gold_count": 7,
+        "predicted_count": 7,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "unit_price_rub": {
+        "tp": 7,
+        "fp": 0,
+        "fn": 0,
+        "gold_count": 7,
+        "predicted_count": 7,
+        "precision": 1.0,
+        "recall": 1.0
+      }
+    }
+  },
+  "cases": 128,
+  "live_cases": 128,
+  "passes": 128,
+  "critical_cases": 0,
+  "technical_errors": [],
+  "langgraph_version": "1.2.24",
+  "fixture_injections": [
+    "R-140",
+    "R-145"
+  ],
+  "base_commit": "7996e2d12330fc11e356b91fb43c8cf3b98b3da8",
+  "date": "2026-11-23",
+  "eval_version": "restoka-eval-v1.3",
+  "source_sha256": "9d5f967d24339fed8fb9f4b01b3d451389348e357eaf123e0acd501ef7788d8f",
+  "generation_parameters": {
+    "temperature": 0,
+    "seed": null,
+    "stream": true,
+    "max_completion_tokens": 4096,
+    "model_timeout_seconds": 80,
+    "max_rounds_per_event": 12,
+    "max_request_chars": 60000,
+    "workers": 5
+  },
+  "wall_time_seconds": 2935,
+  "scenario_duration_median_seconds": 29.06,
+  "api_requests": 594,
+  "api_responses_with_usage": 512,
+  "input_tokens": 2613401,
+  "output_tokens": 226927,
+  "cost_rates_usd_per_million_tokens": {
+    "input": "0.30",
+    "cached_input": "0.006",
+    "output": "1.20"
+  }
+}

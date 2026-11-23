@@ -1,0 +1,4 @@
+SQLAlchemy>=2.0.51,<2.1
+psycopg[binary]>=3.2,<4
+pydantic>=2.10,<3
+langgraph==1.2.24
